@@ -1,0 +1,14 @@
+/Users/ryabuily/Projects/TextCheck/TextCheck/bin/Debug/netstandard2.0/TextCheck.deps.json
+/Users/ryabuily/Projects/TextCheck/TextCheck/bin/Debug/netstandard2.0/TextCheck.dll
+/Users/ryabuily/Projects/TextCheck/TextCheck/bin/Debug/netstandard2.0/ref/TextCheck.dll
+/Users/ryabuily/Projects/TextCheck/TextCheck/bin/Debug/netstandard2.0/TextCheck.pdb
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/TextCheck.csprojAssemblyReference.cache
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/TextCheck.AssemblyInfoInputs.cache
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/TextCheck.AssemblyInfo.cs
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/TextCheck.csproj.CoreCompileInputs.cache
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/TextCheck.dll
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/ref/TextCheck.dll
+/Users/ryabuily/Projects/TextCheck/TextCheck/obj/Debug/netstandard2.0/TextCheck.pdb
